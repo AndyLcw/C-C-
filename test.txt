@@ -1,1 +1,1 @@
-this is test for my first using git.
+this is test for my first using github(git).
